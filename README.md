@@ -1,4 +1,10 @@
-### Hi there 👋
+### bem-vindo ao meu perfil s2
+
+Meu nome é Guilherme Fernandes, mas você também pode me chamar de Gui, e eu sou um estudante do 3º ano do ensino médio da escola E.E. Izidoro Daun!
+
+° Sou estudante de Tecnologia Robótica//
+° Estou me desenvolvendo na linguagem JavaScript//
+° Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
 <!--
 **yvesutt/yvesutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
