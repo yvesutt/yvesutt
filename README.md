@@ -1,6 +1,6 @@
 ### bem-vindo ao meu perfil s2
 
-Meu nome é Guilherme Fernandes, mas você também pode me chamar de Gui, e eu sou um estudante do 3º ano do ensino médio da escola E.E. Izidoro Daun!
+Meu nome é Guilherme, mas você também pode me chamar de Gui, e eu sou um estudante do 3º ano do ensino médio da escola E.E. Izidoro Daun!
 
 ° Sou estudante de Tecnologia Robótica//
 ° Estou me desenvolvendo na linguagem JavaScript//
